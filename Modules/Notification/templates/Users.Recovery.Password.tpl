@@ -1,0 +1,1 @@
+Для востановления пароля перейдите по ссылке http://{{domain}}/user/recovery_pass/{{user_id}}/{{remind_key}}

@@ -1,0 +1,19 @@
+{
+    "name": "collaborator/core",
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "Davintoo",
+            "email": "info@davintoo.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Modules": "."
+        }
+    },
+    "require": {
+    },
+    "require-dev": {
+    }
+}
